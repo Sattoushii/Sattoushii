@@ -3,7 +3,7 @@
 I'm a BSIT (Bachelor of Science in Information Technology) student from the Philippines, passionate about programming, technology, and software development.
 
 🚀 What You'll Find Here
-🧪 Experiments — Testing new ideas, tools, and technologies.
+- 🧪 Experiments — Testing new ideas, tools, and technologies.
 🛠️ Small Projects — Practicing programming and exploring different concepts.
 🌐 Major Projects — Building more complex applications and practical solutions.
 📚 Learning Journey — Documenting my progress and improving my development skills.
