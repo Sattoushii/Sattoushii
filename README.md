@@ -13,7 +13,7 @@ I'm still learning, experimenting, and building one project at a time. Every rep
 ────────────────────────────────────────────────────────────────────────────────────
 
 Tech & Tools
-- Python, Java, Vb.net, Php
+- Python, Java, Php
 - Html, Css, JavaScript
 - FIgma
 <!--
