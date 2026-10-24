@@ -1,6 +1,6 @@
 👋 Hi, I'm Satto!
 
-I'm a BSIT (Bachelor of Science in Information Technology) student from the Philippines, passionate about programming, technology, and development development.
+I'm a BSIT (Bachelor of Science in Information Technology) student from the Philippines, passionate about programming, technology, and web development.
 
 🚀 What You'll Find Here
 - 🧪 Experiments — Testing new ideas, tools, and technologies.
