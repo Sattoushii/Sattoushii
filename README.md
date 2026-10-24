@@ -10,6 +10,12 @@ I'm a BSIT (Bachelor of Science in Information Technology) student from the Phil
 
 I'm still learning, experimenting, and building one project at a time. Every repository represents a step forward in my journey as an aspiring IT professional.
 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Tech & Tools
+- Python, Java, Vb.net, Php
+- Html, Css, JavaScript
+- FIgma
 <!--
 **Sattoushii/Sattoushii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
