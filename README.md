@@ -4,9 +4,9 @@ I'm a BSIT (Bachelor of Science in Information Technology) student from the Phil
 
 🚀 What You'll Find Here
 - 🧪 Experiments — Testing new ideas, tools, and technologies.
-🛠️ Small Projects — Practicing programming and exploring different concepts.
-🌐 Major Projects — Building more complex applications and practical solutions.
-📚 Learning Journey — Documenting my progress and improving my development skills.
+- 🛠️ Small Projects — Practicing programming and exploring different concepts.
+- 🌐 Major Projects — Building more complex applications and practical solutions.
+- 📚 Learning Journey — Documenting my progress and improving my development skills.
 
 I'm still learning, experimenting, and building one project at a time. Every repository represents a step forward in my journey as an aspiring IT professional.
 
